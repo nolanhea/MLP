@@ -10,7 +10,7 @@ Project requires QT libraries installed.
 3. run "make install"
 ### Windows
 1. move to the build directory
-2. run "cmake -S path_to_cmakelist.txt -B path_to_build"
+2. run "cmake -S path_to_CMakeLists.txt -B path_to_build"
 3. run "cmake --build . --config Release"
 ## Application overview
 ### Train model tab
